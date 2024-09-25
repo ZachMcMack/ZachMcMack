@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZachMcMack
 - 👀 I’m interested in ML and AI.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and SQL.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on github!
+- 📫 Contact me on GitHub.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can unycycle
 
